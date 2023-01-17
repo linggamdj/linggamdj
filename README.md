@@ -1,4 +1,4 @@
-## Hi there, I'm [Lingga Adi Atmadja] 👋
+## Hi there, I'm [Lingga Adi Atmadja](https://linggamdj.github.io) 👋
 
 I am a Graduated Informatics Engineering student from [Gunadarma University](https://www.gunadarma.ac.id), Indonesia. Apart from that, I am mostly familiar with these:
 
@@ -25,8 +25,6 @@ I am a Graduated Informatics Engineering student from [Gunadarma University](htt
 
 ## Connect with me:
 
-<p align="center">
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/lingga-adi-atmadja-b53a771b7/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/linggaadia/)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://linggamdj.github.io)
-</p>

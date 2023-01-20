@@ -13,6 +13,7 @@ I am a Graduated Informatics Engineering student from [Gunadarma University](htt
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql-original" style="height: 45px; margin-left: 1em" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma-original" style="height: 45px; margin-left: 1em" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd-original" style="height: 45px; margin-left: 1em" />
 </div>

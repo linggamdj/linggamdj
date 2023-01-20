@@ -19,9 +19,9 @@ I am a Graduated Informatics Engineering student from [Gunadarma University](htt
 
 ## Statistics:
 
-![linggamdj's github stats](https://github-readme-stats.vercel.app/api?username=linggamdj&show_icons=true&theme=tokyonight)
+![linggamdj's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=linggamdj&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=linggamdj&theme=tokyonight" alt="mystreak"/>
-![linggamdj's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linggamdj&theme=tokyonight&layout=compact)
+![linggamdj's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=linggamdj&theme=tokyonight&layout=compact)
 
 ## Connect with me:
 

@@ -1,6 +1,6 @@
 ## Hi there, I'm [Lingga Adi Atmadja](https://linggamdj.github.io) 👋
 
-I am a Graduated Informatics Engineering student from [Gunadarma University](https://www.gunadarma.ac.id), Indonesia. Apart from that, I am mostly familiar with these:
+I am a graduated Informatics Engineering student from [Gunadarma University](https://www.gunadarma.ac.id), Indonesia. Apart from that, I am mostly familiar with these:
 
 <div style="margin-left: 1rem;" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5-original" style="height: 45px" />
